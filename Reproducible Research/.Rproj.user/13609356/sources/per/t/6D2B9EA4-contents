@@ -1,0 +1,15 @@
+---
+title: "这是标题"
+author:
+  - 李文轩
+documentclass: ctexart
+keywords:
+  - R 
+  - Reproductible Research
+output:
+  rticles::ctex:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+---
+
